@@ -1,0 +1,16 @@
+{
+    "name": "juling/laravel-ucenter",
+    "description": "ucenter client for laravel",
+    "license": "Apache-2.0",
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Juling\\Ucenter\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
